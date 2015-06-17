@@ -21,13 +21,12 @@
   },
   "homepage": "https://github.com/mkleehammer/koa-rethinkdb-pool",
   "dependencies": {
-    "co": "^4.5.4",
-    "debug": "^2.1.0"
+    "debug": "^2.2.0"
   },
   "devDependencies": {
     "chai": "^1.9.2",
-    "co": "^3.1.0",
+    "co": "^4.5.4",
     "mocha": "^2.0.1",
-    "rethinkdb": "^1.15.0-0"
+    "rethinkdb": "^2.0.0-2"
   }
 }
